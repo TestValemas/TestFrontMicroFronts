@@ -1,1 +1,1 @@
-declare module 'LookAndFeelAdmin/*';
+declare module 'LookAndFeel/*';

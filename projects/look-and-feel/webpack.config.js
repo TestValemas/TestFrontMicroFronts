@@ -5,7 +5,7 @@ module.exports = withModuleFederationPlugin({
   name: 'LookAndFeel',
 
   exposes: {
-    './Component': './projects/look-and-feel/src/app/app.component.ts',
+    './LookAndFeelModule': './projects/look-and-feel/src/app/modules/look-and-feel/look-and-feel.module.ts',
   },
 
   shared: {
